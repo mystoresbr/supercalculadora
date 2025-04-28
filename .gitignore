@@ -1,0 +1,25 @@
+# WordPress específico
+wp-config.php
+wp-admin/
+wp-includes/
+wp-content/uploads/
+wp-content/upgrade/
+wp-content/backup*/
+wp-content/cache/
+wp-content/plugins/hello.php
+
+# Arquivos temporários
+*.log
+.DS_Store
+Thumbs.db
+.htaccess
+
+# IDEs e editores
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Ambiente local
+node_modules/
+vendor/
